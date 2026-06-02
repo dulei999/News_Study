@@ -9,6 +9,7 @@ import com.dulei.news_study.R
 
 /**
  * 启动界面
+ *
  */
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
